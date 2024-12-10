@@ -1,6 +1,6 @@
 public class Saludo {
     public static void saludoInicial() {
-        System.out.println("¡Hola, bienvenido!.");
+        System.out.println("¡Hola, bienvenido a mi proyecto!.");
     }
 
     public static void despedida() {
